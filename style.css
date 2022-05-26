@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Macondo&family=Mukta:wght@200&display=swap');
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 270px;
+    width: 270px;
+    margin-top: 60px;
+    border-radius: 140px;
+    border: 15px solid yellow;
+}
+.name{
+    margin-top: 70px;
+
+}
+.about_me{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+}
+.education{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+}
+.skills{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+}
+small{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+}
