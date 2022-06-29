@@ -25,7 +25,15 @@ img{
     font-family: 'EB Garamond', serif;
     font-size: 18px;
 }
-small{
+.connect-list{
+    list-style: none;
     font-family: 'EB Garamond', serif;
     font-size: 18px;
+}
+.projects{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+}
+.project-name{
+    color: #b59595;
 }
